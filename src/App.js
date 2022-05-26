@@ -10,7 +10,7 @@ function App() {
         <PaintingList items={paintings} />
       </Section>
 
-      <Section title="second title3" />
+      <Section title="second title4" />
     </div>
   );
 }
